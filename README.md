@@ -1,4 +1,4 @@
-# Gavião Caboclo
+# Gavião-Caboclo
 
 Heterospizias meridionalis
 
@@ -7,8 +7,11 @@ Bruno Freitas é pesquisador de Linguística Cognitiva e Política
 ---
 
 Gavião casaca-de-couro
+
 Gavião-terra
+
 Gavião-puva
+
 Urupiranga
 
 Scroll along to find out  
